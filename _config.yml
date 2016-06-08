@@ -6,9 +6,9 @@ color:
   saturation: 0.38180314865894616
   rhythmicContrast: 0.8398820490110666
   brandColors:
-    - '#332532'
-    - '#644D52'
-    - '#F77A52'
-    - '#FF974F'
-    - '#A49A87'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: Traveling Spoon Test
