@@ -1,0 +1,14 @@
+layout_spectrum: 0.9392538419924676
+typography_spectrum: 0.555183872114867
+color:
+  brandStrength: 0.07772950199432671
+  lightness: 0.593484178185463
+  saturation: 0.38180314865894616
+  rhythmicContrast: 0.8398820490110666
+  brandColors:
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
+name: Traveling Spoon Test
